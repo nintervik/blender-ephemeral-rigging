@@ -1,0 +1,1 @@
+# blender-ephemeral-rigging
