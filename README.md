@@ -1,1 +1,1 @@
-# blender-ephemeral-rigging
+# Blender Ephemeral Rigging
