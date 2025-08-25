@@ -1,0 +1,3 @@
+- Make ctrls unparented, so they are in world space but still control each bone, right now constraints are broken for some reason...
+
+- Create a simple system of forward mode for the rig and then world mode or something to test constraints on the fly, then interpolation with fake keys/poses
